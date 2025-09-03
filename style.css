@@ -3,8 +3,8 @@
     --card: #111827;     /* gray-900 */
     --muted: #94a3b8;    /* slate-400 */
     --text: #e5e7eb;     /* gray-200 */
-    --accent: #22d3ee;   /* cyan-400 */
-    --accent-2: #38bdf8; /* sky-400 */
+    --accent: #af0000;   /* cyan-400 */
+    --accent-2: #f83838; /* sky-400 */
   }
   
   html, body { height: 100%; }
